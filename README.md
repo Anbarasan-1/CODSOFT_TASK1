@@ -27,6 +27,14 @@ style.css
 script.js
 ```
 
+## 🌐 Live Demo
+
+🔗 https://anbarasan-1.github.io/CODSOFT_TASK1/
+
+## 📂 GitHub Repository
+
+🔗 https://github.com/Anbarasan-1/CODSOFT_TASK1
+
 ## 👨‍💻 Author
 
 **Anbarasan N**
